@@ -1,6 +1,0 @@
- Pages 
-
- Register - /Register
- genre - /genre
- home - /
- movies - /movies
