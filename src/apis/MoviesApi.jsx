@@ -8,5 +8,6 @@ const result = await axios.get(api)
 return result?.data?.Search
  }catch(err){
   console.log(err)
+  alert('api failed')
  }
 }

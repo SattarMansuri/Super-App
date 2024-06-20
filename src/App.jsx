@@ -3,6 +3,7 @@ import Register from './Pages/Register/Register'
 import Genre from './Pages/Genre/Genre'
 import Home from './Pages/Home/Home'
 import Movies from './Pages/Movies/Movies'
+import React from 'react'
 
 
 
